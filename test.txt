@@ -1,0 +1,12 @@
+Test file.
+1. The rain in spain
+2. stays mainly on the plain
+3. Pack my box
+4. with five dozen
+5. liquor jugs.
+
+This is a test doc.
+I want us to learn git so I made this to play with
+If I understand correctly, we're able to clone it, then individually make changes
+and return it to the main repository for integration to the original.
+
