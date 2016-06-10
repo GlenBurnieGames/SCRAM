@@ -1,0 +1,65 @@
+Once upon a time, in the land of majestic gooeyness...
+legend:
+		<o> = something they see
+		[  ] = pop-up box
+		{01} = code stuff.
+
+Step 1 {01}: download program
+Step 2 [  ]: run installer
+- Step 3: User permissions and terms of use/conduct
+- Step 4: install program
+
+Step 5 {01}: Run program (Desktop shortcut)
+Step 6 {01}: Check for Updates.
+Step 7 <o>: Splash Screen. Advertise GB Games here.
+
+Step 8 <o>: log in screen. Offer a checkbox to remember user log-in for future to skip this step.
+
+Step 9 <o>: Take user to profile page. Here they will view:
+	- Profile name
+	- Profile picture
+	There will also be a series of "links" that will open or change the window so they can view other things. 
+	The navigation menu will be similar to Blizzard's Starcraft 2 nav bar.
+	The navigation menu will include:
+		- Profile
+			sends the player back to the first page after logging in. Here they can see:
+				- All previously mentioned things
+				- Comments made about them by other users
+				- Ratings: How players rated them as a player, gm, or scripter.
+					- Player:
+						This area is intended to encompass their ability to roleplay, get in character, and their interelationship will other players and the GM.
+					- GM:
+						This area is intended to encompass their ability to change and adapt their story to the actions of the runners, as well as their interelationship will other players.
+					- Scripter:
+						This area is intended to encompass their ability to fully develop and flesh out an interesting and engaging mission, plot, or story. They may also be rated based upon how well this story is tailored to the runners involved. (IE, a shapeshifter is less likely to be hired by Humanis (Nazis of the 21st century. Only difference is that all humans are better than all others)
+		- Contacts
+			this page contains a list of all people the player has met. This will be divided into four (4) sections.
+				- Recently met
+					This area will contain a list of people the user recently played with who is not in their friends list. These people will be categorized as: player, gm, and scripter. It will also have a date and the name of the mission.
+				- Friends
+					This area will contain a list of people who the user frequently converses with. They are likely people the user personally knows.
+					They can be defined, as per the user's discretion, as player, scripter, or GM.
+				- Favorites
+					This area is where the user may alocate other users for future reference and for quick reference. It is the equivelent of following something on steam or facebook.
+		- Innkeeper:
+			this page is intended to be the equivelent of a lobby or a forum. This is where the user may seek out other players, GMs, or scripts/scripters in order to play a game. The user may also post or review posts advertising for said games as well as plots by scripters.
+		- Characters:
+			this is where the user may view a list of his/her characters. This list can be sorted in the following categories:
+				- Name
+					This is the standard format. It sorts the user's characters alphabetically by their first name.
+				- Last Played
+					This is the default format. It sorts the user's characters by when they were last played. (This means we need to record dates)
+				- Archetype
+					This is the characters role in the game and their style. This includes: Street Samurai, Gunslinger, Combat Mage, Face, Rigger,etc.
+				- Metatype
+					This is the characters race. This includes: Elf, Human, Ork, Troll, Dwarf, etc.
+				- Ethinicity
+					This is the characters origin. This includes: UCAS, Amazonia, Askaban Council, Atlantis, etc.
+				- Total Karma
+					This is how much experience the character has. This sorts them numerically from highest to lowest. (Karma is gained after each mission/session)
+				- Last Mission
+					This is where the player may quickly view the last mission they were in. This is sorted alphabetically.
+		- Marketplace:
+			This is there the user may view all the gear available to purchase in the game, as well as its rarity. Here the player may also sell and purchase items from other players. (This is meant to create a sense that the world is larger than just you. Wether or not they decide to use this is completely up to the player and their GM. If something is obtained from another player then maybe we can label it with their name. For example, in WoW items crafted by players will say "Made by [player]") Perhaps the user may also be able to purchase scripts here from scripters. Items for purchase can be sorted based on: consumability, melee weapons, ranged weapons, armor, modifications, and vehicles.
+		- Achievements:
+			This section is where achievements given out by a GM will be stored. To prevent trolling or spamming, GMs may only hand out 12 achievements per mission at a max and the user may choose to hid, delete, or report GMs who abuse this privelage. They will also notified if a GM attempts to spam them with more. Achievements may also be sorted by: date recieved, GM, and mission aquired.				
