@@ -21,7 +21,7 @@ Step 9 <o>: Take user to profile page. Here they will view:
 	There will also be a series of "links" that will open or change the window so they can view other things. 
 	The navigation menu will be similar to Blizzard's Starcraft 2 nav bar.
 	The navigation menu will include:
-		- Profile
+		- Profile****
 			sends the player back to the first page after logging in. Here they can see:
 				- All previously mentioned things
 				- Comments made about them by other users
@@ -44,7 +44,7 @@ Step 9 <o>: Take user to profile page. Here they will view:
 		- Innkeeper:
 			this page is intended to be the equivelent of a lobby or a forum. This is where the user may seek out other players, GMs, or scripts/scripters in order to play a game. The user may also post or review posts advertising for said games as well as plots by scripters.
 		- Characters:
-			this is where the user may view a list of his/her characters. This list can be sorted in the following categories:
+			this is where the user may view a list of his/her characters. They may also create new characters here. This list can be sorted in the following categories:
 				- Name
 					This is the standard format. It sorts the user's characters alphabetically by their first name.
 				- Last Played
