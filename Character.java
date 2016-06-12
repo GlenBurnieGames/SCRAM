@@ -5,7 +5,7 @@ import java.io.Serializable;
 public class Character implements Serializable
 {
 	/**
-	 * 
+	 *   This is the serialVersionUID
 	 */
 	private static final long serialVersionUID = 1L;
 	
